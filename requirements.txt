@@ -1,0 +1,5 @@
+# Python Version: 3.13.2
+geopandas==1.0.1
+numpy==2.2.4
+pandas==2.2.3
+Shapely==2.1.0

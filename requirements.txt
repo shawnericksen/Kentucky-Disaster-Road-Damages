@@ -4,3 +4,4 @@ numpy==2.2.4
 pandas==2.2.3
 Shapely==2.1.0
 matplotlib.pyplot==3.8.0
+scikit-learn=1.6.1

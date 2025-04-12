@@ -3,3 +3,4 @@ geopandas==1.0.1
 numpy==2.2.4
 pandas==2.2.3
 Shapely==2.1.0
+matplotlib.pyplot==3.8.0
